@@ -1,0 +1,3153 @@
+{
+  "appversion": "",
+  "taogeData": {
+    "ai_uin": 0,
+    "creator": {
+      "headurl": "http://y.gtimg.cn/music/common/upload/t_celebrity_certification/1579030.png",
+      "ifpicurl": "https://y.gtimg.cn/music/common/upload/t_cm3_photo_publish/1826019.png",
+      "musicid": 2783429033,
+      "nick": "QQ音乐官方歌单",
+      "singerid": 0,
+      "type": 1
+    },
+    "ctime": 1571129822,
+    "desc": "用节奏带动心跳！",
+    "dir_show": 1,
+    "dirid": 401,
+    "dirtype": 0,
+    "disstype": 1,
+    "dv2": 0,
+    "edge_mark": "",
+    "encrypt_ai_uin": "",
+    "encrypt_uin": "owSFoivANKnioz**",
+    "headurl": "http://y.gtimg.cn/music/common/upload/t_celebrity_certification/1579030.png",
+    "host_nick": "QQ音乐官方歌单",
+    "host_uin": 0,
+    "id": 7256912512,
+    "listennum": 40199250,
+    "mtime": 1572765419,
+    "ordernum": 0,
+    "ordertime": 0,
+    "owndir": 0,
+    "picid": 0,
+    "picmid": "",
+    "picurl": "http://qpic.y.qq.com/music_cover/xiabfMZAmQ0PYUzgCvOicArIoGLzqL3n6q3fDiawWkhTTVWgGNM52HBNA/300?n=1",
+    "picurl2": "http://qpic.y.qq.com/music_cover/xiabfMZAmQ0PYUzgCvOicArIoGLzqL3n6qZUkAZmR37S34un5KFazPag/600",
+    "show": 1,
+    "song_update_num": 0,
+    "song_update_time": 0,
+    "songnum": 40,
+    "status": 0,
+    "tag": [
+      {
+        "id": 6,
+        "name": "流行"
+      },
+      {
+        "id": 167,
+        "name": "英语"
+      }
+    ],
+    "title": "欧美| 流行节奏控",
+    "vec_tagid": [
+      6,
+      167
+    ],
+    "vec_tagname": [],
+    "songlist": [
+      {
+        "abt": "",
+        "action": {
+          "alert": 23,
+          "icons": 8404860,
+          "msgdown": 0,
+          "msgfav": 0,
+          "msgid": 16,
+          "msgpay": 6,
+          "msgshare": 0,
+          "switch": 636675,
+          "switches": 636675
+        },
+        "album": {
+          "id": 993207,
+          "mid": "003pKram2DPwm5",
+          "name": "Love Me Like You Do (From \"Fifty Shades of Grey\")",
+          "pmid": "003pKram2DPwm5_1",
+          "title": "Love Me Like You Do (From \"Fifty Shades of Grey\")"
+        },
+        "es": "",
+        "file": {
+          "b_30s": 0,
+          "e_30s": 0,
+          "hires_bitdepth": 0,
+          "hires_sample": 0,
+          "media_mid": "002xi4L728t6pg",
+          "size_128mp3": 4005642,
+          "size_192aac": 6046548,
+          "size_192ogg": 5530709,
+          "size_24aac": 0,
+          "size_320mp3": 10013597,
+          "size_48aac": 1523780,
+          "size_96aac": 3050421,
+          "size_96ogg": 2846612,
+          "size_ape": 0,
+          "size_dts": 0,
+          "size_flac": 29479463,
+          "size_hires": 0,
+          "size_try": 0,
+          "try_begin": 0,
+          "try_end": 0
+        },
+        "fnote": 4009,
+        "genre": 1,
+        "id": 102453504,
+        "index_album": 1,
+        "index_cd": 0,
+        "interval": 250,
+        "isonly": 1,
+        "ksong": {
+          "id": 97206,
+          "mid": "004VnPpy1QwYZv",
+        },
+        "label": "4611686018435778576",
+        "language": 5,
+        "mid": "001zhxVn0sqZ45",
+        "mv": {
+          "id": 658379,
+          "vid": "i0018sfuxol",
+          "vt": 0
+        },
+        "name": "Love Me Like You Do",
+        "new_icon": 0,
+        "ov": 0,
+        "pay": {
+          "pay_down": 1,
+          "pay_month": 1,
+          "pay_play": 0,
+          "pay_status": 0,
+          "price_album": 0,
+          "price_track": 200,
+          "time_free": 0
+        },
+        "sa": 0,
+        "singer": [
+          {
+            "id": 10265,
+            "mid": "001YMoro1NL5hU",
+            "name": "Ellie Goulding",
+            "title": "Ellie Goulding"
+          }
+        ],
+        "songtype": 3,
+        "status": 0,
+        "subtitle": "2015维多利亚的秘密秀秀场音乐|《五十度灰》电影插曲",
+        "tf": "",
+        "tid": 0,
+        "time_public": "2015-02-06",
+        "title": "Love Me Like You Do",
+        "trace": "",
+        "type": 0,
+        "uiAction": 0,
+        "url": "",
+        "version": 0,
+        "volume": {
+          "gain": -11.015999794006348,
+          "lra": 11.350000381469727,
+          "peak": 0.9990000128746033
+        }
+      },
+      {
+        "abt": "",
+        "action": {
+          "alert": 23,
+          "icons": 8404860,
+          "msgdown": 0,
+          "msgfav": 0,
+          "msgid": 16,
+          "msgpay": 6,
+          "msgshare": 0,
+          "switch": 636675,
+          "switches": 636675
+        },
+        "album": {
+          "id": 2219826,
+          "mid": "000JfIR00cyYrL",
+          "name": "Sugar",
+          "pmid": "000JfIR00cyYrL_2",
+          "title": "Sugar"
+        },
+        "es": "",
+        "file": {
+          "b_30s": 0,
+          "e_30s": 0,
+          "hires_bitdepth": 0,
+          "hires_sample": 0,
+          "media_mid": "004VHFaC3pGsiH",
+          "size_128mp3": 3771875,
+          "size_192aac": 5695109,
+          "size_192ogg": 5542815,
+          "size_24aac": 0,
+          "size_320mp3": 9429045,
+          "size_48aac": 1434452,
+          "size_96aac": 2874789,
+          "size_96ogg": 2722870,
+          "size_ape": 0,
+          "size_dts": 0,
+          "size_flac": 29751819,
+          "size_hires": 0,
+          "size_try": 0,
+          "try_begin": 39507,
+          "try_end": 71650
+        },
+        "fnote": 4009,
+        "genre": 1,
+        "id": 203723776,
+        "index_album": 1,
+        "index_cd": 0,
+        "interval": 235,
+        "isonly": 1,
+        "ksong": {
+          "id": 97462,
+          "mid": "004VCvLD3aqiRR"
+        },
+        "label": "0",
+        "language": 5,
+        "mid": "002hiera1sGEd8",
+        "mv": {
+          "id": 306125,
+          "vid": "p0015bl11hy",
+          "vt": 0
+        },
+        "name": "Sugar",
+        "new_icon": 0,
+        "ov": 0,
+        "pay": {
+          "pay_down": 1,
+          "pay_month": 1,
+          "pay_play": 0,
+          "pay_status": 0,
+          "price_album": 0,
+          "price_track": 200,
+          "time_free": 0
+        },
+        "sa": 0,
+        "singer": [
+          {
+            "id": 4983,
+            "mid": "001JuGrt372YIQ",
+            "name": "Maroon 5",
+            "title": "Maroon 5"
+          }
+        ],
+        "songtype": 3,
+        "status": 0,
+        "subtitle": "",
+        "tf": "",
+        "tid": 0,
+        "time_public": "2015-01-13",
+        "title": "Sugar",
+        "trace": "",
+        "type": 0,
+        "uiAction": 0,
+        "url": "",
+        "version": 0,
+        "volume": {
+          "gain": -9.42199993133545,
+          "lra": 5.166999816894531,
+          "peak": 0.9980000257492065
+        }
+      },
+      {
+        "abt": "",
+        "action": {
+          "alert": 23,
+          "icons": 8404860,
+          "msgdown": 0,
+          "msgfav": 0,
+          "msgid": 16,
+          "msgpay": 6,
+          "msgshare": 0,
+          "switch": 636675,
+          "switches": 636675
+        },
+        "album": {
+          "id": 1051165,
+          "mid": "004fWzs53Aunpx",
+          "name": "Drag Me Down",
+          "pmid": "004fWzs53Aunpx_1",
+          "title": "Drag Me Down"
+        },
+        "es": "",
+        "file": {
+          "b_30s": 0,
+          "e_30s": 0,
+          "hires_bitdepth": 0,
+          "hires_sample": 0,
+          "media_mid": "003dpVm03eROTz",
+          "size_128mp3": 3075217,
+          "size_192aac": 4644797,
+          "size_192ogg": 4308268,
+          "size_24aac": 0,
+          "size_320mp3": 7687606,
+          "size_48aac": 1167796,
+          "size_96aac": 2341224,
+          "size_96ogg": 2160110,
+          "size_ape": 0,
+          "size_dts": 0,
+          "size_flac": 22746054,
+          "size_hires": 0,
+          "size_try": 0,
+          "try_begin": 48636,
+          "try_end": 77393
+        },
+        "fnote": 4009,
+        "genre": 1,
+        "id": 102987755,
+        "index_album": 1,
+        "index_cd": 0,
+        "interval": 192,
+        "isonly": 1,
+        "ksong": {
+          "id": 189578,
+          "mid": "003aY5sD2F54GK"
+        },
+        "label": "4611686018431582224",
+        "language": 5,
+        "mid": "001hvxXw0szQOD",
+        "mv": {
+          "id": 651431,
+          "vid": "a00213autz0",
+          "vt": 0
+        },
+        "name": "Drag Me Down",
+        "new_icon": 0,
+        "ov": 0,
+        "pay": {
+          "pay_down": 1,
+          "pay_month": 1,
+          "pay_play": 0,
+          "pay_status": 0,
+          "price_album": 0,
+          "price_track": 200,
+          "time_free": 0
+        },
+        "sa": 0,
+        "singer": [
+          {
+            "id": 24561,
+            "mid": "001FXn5P0kkWfV",
+            "name": "One Direction",
+            "title": "One Direction"
+          }
+        ],
+        "songtype": 3,
+        "status": 0,
+        "subtitle": "",
+        "tf": "",
+        "tid": 0,
+        "time_public": "2015-07-31",
+        "title": "Drag Me Down",
+        "trace": "",
+        "type": 0,
+        "uiAction": 0,
+        "url": "",
+        "version": 0,
+        "volume": {
+          "gain": -9.465999603271484,
+          "lra": 7.370999813079834,
+          "peak": 0.9990000128746033
+        }
+      },
+      {
+        "abt": "",
+        "action": {
+          "alert": 23,
+          "icons": 8404860,
+          "msgdown": 0,
+          "msgfav": 0,
+          "msgid": 16,
+          "msgpay": 6,
+          "msgshare": 0,
+          "switch": 636675,
+          "switches": 636675
+        },
+        "album": {
+          "id": 928677,
+          "mid": "001iSiol1uL9K3",
+          "name": "Fight Song",
+          "pmid": "001iSiol1uL9K3_1",
+          "title": "Fight Song"
+        },
+        "es": "",
+        "file": {
+          "b_30s": 0,
+          "e_30s": 0,
+          "hires_bitdepth": 0,
+          "hires_sample": 0,
+          "media_mid": "002vNI2t0yZSRB",
+          "size_128mp3": 3264923,
+          "size_192aac": 4916477,
+          "size_192ogg": 4694968,
+          "size_24aac": 0,
+          "size_320mp3": 8161942,
+          "size_48aac": 1236158,
+          "size_96aac": 2488093,
+          "size_96ogg": 2355779,
+          "size_ape": 0,
+          "size_dts": 0,
+          "size_flac": 24580353,
+          "size_hires": 0,
+          "size_try": 0,
+          "try_begin": 37310,
+          "try_end": 66442
+        },
+        "fnote": 4009,
+        "genre": 1,
+        "id": 105025374,
+        "index_album": 1,
+        "index_cd": 0,
+        "interval": 203,
+        "isonly": 1,
+        "ksong": {
+          "id": 162864,
+          "mid": "0027ZeD03YS2vK"
+        },
+        "label": "4611686018431582224",
+        "language": 5,
+        "mid": "0015olDc21xsnn",
+        "mv": {
+          "id": 354030,
+          "vid": "k0021wm9rvg",
+          "vt": 0
+        },
+        "name": "Fight Song",
+        "new_icon": 0,
+        "ov": 0,
+        "pay": {
+          "pay_down": 1,
+          "pay_month": 1,
+          "pay_play": 0,
+          "pay_status": 0,
+          "price_album": 0,
+          "price_track": 200,
+          "time_free": 0
+        },
+        "sa": 0,
+        "singer": [
+          {
+            "id": 25620,
+            "mid": "000n2g6N3AcFT5",
+            "name": "Rachel Platten",
+            "title": "Rachel Platten"
+          }
+        ],
+        "songtype": 3,
+        "status": 0,
+        "subtitle": "",
+        "tf": "",
+        "tid": 0,
+        "time_public": "2015-02-19",
+        "title": "Fight Song",
+        "trace": "",
+        "type": 0,
+        "uiAction": 0,
+        "url": "",
+        "version": 0,
+        "volume": {
+          "gain": -10.069999694824219,
+          "lra": 9.996999740600586,
+          "peak": 0.9440000057220459
+        }
+      },
+      {
+        "abt": "",
+        "action": {
+          "alert": 23,
+          "icons": 8404860,
+          "msgdown": 0,
+          "msgfav": 0,
+          "msgid": 16,
+          "msgpay": 6,
+          "msgshare": 0,
+          "switch": 636675,
+          "switches": 636675
+        },
+        "album": {
+          "id": 191371,
+          "mid": "002HCcEm2SuRfS",
+          "name": "Unorthodox Jukebox",
+          "pmid": "002HCcEm2SuRfS_1",
+          "title": "Unorthodox Jukebox"
+        },
+        "es": "",
+        "file": {
+          "b_30s": 0,
+          "e_30s": 0,
+          "hires_bitdepth": 0,
+          "hires_sample": 0,
+          "media_mid": "004VVjpT1D7cZD",
+          "size_128mp3": 2858252,
+          "size_192aac": 4339350,
+          "size_192ogg": 4311708,
+          "size_24aac": 0,
+          "size_320mp3": 7145260,
+          "size_48aac": 1093570,
+          "size_96aac": 2193052,
+          "size_96ogg": 2109992,
+          "size_ape": 0,
+          "size_dts": 0,
+          "size_flac": 21102912,
+          "size_hires": 0,
+          "size_try": 0,
+          "try_begin": 36726,
+          "try_end": 62394
+        },
+        "fnote": 4009,
+        "genre": 1,
+        "id": 5028613,
+        "index_album": 4,
+        "index_cd": 0,
+        "interval": 178,
+        "isonly": 1,
+        "ksong": {
+          "id": 51332,
+          "mid": "004T8Zl21srcGS"
+        },
+        "label": "4611686018435783696",
+        "language": 5,
+        "mid": "000bz9Nw30VQAr",
+        "mv": {
+          "id": 201942,
+          "vid": "x0016ugkos0",
+          "vt": 0
+        },
+        "name": "Treasure",
+        "new_icon": 0,
+        "ov": 0,
+        "pay": {
+          "pay_down": 1,
+          "pay_month": 1,
+          "pay_play": 0,
+          "pay_status": 0,
+          "price_album": 0,
+          "price_track": 200,
+          "time_free": 0
+        },
+        "sa": 0,
+        "singer": [
+          {
+            "id": 21414,
+            "mid": "001F1svH2tTpsC",
+            "name": "Bruno Mars",
+            "title": "Bruno Mars"
+          }
+        ],
+        "songtype": 3,
+        "status": 0,
+        "subtitle": "2014维多利亚的秘密秀秀场音乐",
+        "tf": "",
+        "tid": 0,
+        "time_public": "2012-12-07",
+        "title": "Treasure",
+        "trace": "",
+        "type": 0,
+        "uiAction": 0,
+        "url": "",
+        "version": 0,
+        "volume": {
+          "gain": -10.1850004196167,
+          "lra": 4.302000045776367,
+          "peak": 1
+        }
+      },
+      {
+        "abt": "",
+        "action": {
+          "alert": 23,
+          "icons": 8404860,
+          "msgdown": 0,
+          "msgfav": 0,
+          "msgid": 16,
+          "msgpay": 6,
+          "msgshare": 0,
+          "switch": 636675,
+          "switches": 636675
+        },
+        "album": {
+          "id": 980997,
+          "mid": "003UmT6t3xd330",
+          "name": "Everything Is 4",
+          "pmid": "003UmT6t3xd330_1",
+          "title": "Everything Is 4"
+        },
+        "es": "",
+        "file": {
+          "b_30s": 0,
+          "e_30s": 0,
+          "hires_bitdepth": 0,
+          "hires_sample": 0,
+          "media_mid": "000zV2Vm0c2dqo",
+          "size_128mp3": 3324707,
+          "size_192aac": 5021723,
+          "size_192ogg": 5118430,
+          "size_24aac": 0,
+          "size_320mp3": 8311378,
+          "size_48aac": 1258866,
+          "size_96aac": 2532510,
+          "size_96ogg": 2519832,
+          "size_ape": 0,
+          "size_dts": 0,
+          "size_flac": 26999440,
+          "size_hires": 0,
+          "size_try": 0,
+          "try_begin": 35193,
+          "try_end": 74794
+        },
+        "fnote": 4009,
+        "genre": 1,
+        "id": 102192865,
+        "index_album": 1,
+        "index_cd": 0,
+        "interval": 207,
+        "isonly": 1,
+        "ksong": {
+          "id": 167139,
+          "mid": "003oGBJI1hCOd6"
+        },
+        "label": "4611686018431582224",
+        "language": 5,
+        "mid": "004XUby13QTpcD",
+        "mv": {
+          "id": 309985,
+          "vid": "e0016ay21sz",
+          "vt": 0
+        },
+        "name": "Want To Want Me",
+        "new_icon": 0,
+        "ov": 0,
+        "pay": {
+          "pay_down": 1,
+          "pay_month": 1,
+          "pay_play": 0,
+          "pay_status": 0,
+          "price_album": 0,
+          "price_track": 200,
+          "time_free": 0
+        },
+        "sa": 0,
+        "singer": [
+          {
+            "id": 19921,
+            "mid": "004TfAHg2stYrs",
+            "name": "Jason Derulo",
+            "title": "Jason Derulo"
+          }
+        ],
+        "songtype": 3,
+        "status": 0,
+        "subtitle": "",
+        "tf": "",
+        "tid": 0,
+        "time_public": "2015-05-26",
+        "title": "Want To Want Me",
+        "trace": "",
+        "type": 0,
+        "uiAction": 0,
+        "url": "",
+        "version": 0,
+        "volume": {
+          "gain": -10.019000053405762,
+          "lra": 3.7269999980926514,
+          "peak": 0.9990000128746033
+        }
+      },
+      {
+        "abt": "",
+        "action": {
+          "alert": 2,
+          "icons": 8396668,
+          "msgdown": 0,
+          "msgfav": 0,
+          "msgid": 16,
+          "msgpay": 6,
+          "msgshare": 0,
+          "switch": 636675,
+          "switches": 636675
+        },
+        "album": {
+          "id": 436033,
+          "mid": "004FmC9I02slXy",
+          "name": "PRISM (Deluxe Version)",
+          "pmid": "004FmC9I02slXy_1",
+          "title": "PRISM (Deluxe Version)"
+        },
+        "es": "",
+        "file": {
+          "b_30s": 0,
+          "e_30s": 0,
+          "hires_bitdepth": 0,
+          "hires_sample": 0,
+          "media_mid": "001H1IKx3Z7NfN",
+          "size_128mp3": 3269968,
+          "size_192aac": 4932727,
+          "size_192ogg": 4816824,
+          "size_24aac": 0,
+          "size_320mp3": 8174070,
+          "size_48aac": 1245925,
+          "size_96aac": 2497448,
+          "size_96ogg": 2372161,
+          "size_ape": 0,
+          "size_dts": 0,
+          "size_flac": 26201636,
+          "size_hires": 0,
+          "size_try": 0,
+          "try_begin": 39860,
+          "try_end": 61447
+        },
+        "fnote": 4009,
+        "genre": 1,
+        "id": 5063944,
+        "index_album": 7,
+        "index_cd": 0,
+        "interval": 204,
+        "isonly": 0,
+        "ksong": {
+          "id": 2701588,
+          "mid": "003Dz1jl4gVXYs"
+        },
+        "label": "4611686018435776528",
+        "language": 5,
+        "mid": "0013dwk51wDqZJ",
+        "mv": {
+          "id": 294472,
+          "vid": "c00152us41o",
+          "vt": 0
+        },
+        "name": "This Is How We Do",
+        "new_icon": 0,
+        "ov": 0,
+        "pay": {
+          "pay_down": 1,
+          "pay_month": 1,
+          "pay_play": 0,
+          "pay_status": 0,
+          "price_album": 0,
+          "price_track": 200,
+          "time_free": 0
+        },
+        "sa": 0,
+        "singer": [
+          {
+            "id": 13157,
+            "mid": "004PTEQR3C16SV",
+            "name": "Katy Perry",
+            "title": "Katy Perry"
+          }
+        ],
+        "songtype": 3,
+        "status": 0,
+        "subtitle": "",
+        "tf": "",
+        "tid": 0,
+        "time_public": "2013-10-18",
+        "title": "This Is How We Do",
+        "trace": "",
+        "type": 0,
+        "uiAction": 0,
+        "url": "",
+        "version": 0,
+        "volume": {
+          "gain": -9.282999992370605,
+          "lra": 5.425000190734863,
+          "peak": 0.9990000128746033
+        }
+      },
+      {
+        "abt": "",
+        "action": {
+          "alert": 23,
+          "icons": 8404860,
+          "msgdown": 0,
+          "msgfav": 0,
+          "msgid": 16,
+          "msgpay": 6,
+          "msgshare": 0,
+          "switch": 636675,
+          "switches": 636675
+        },
+        "album": {
+          "id": 952041,
+          "mid": "004dvxd347ZB61",
+          "name": "Handwritten (Deluxe)",
+          "pmid": "004dvxd347ZB61_1",
+          "title": "Handwritten (Deluxe)"
+        },
+        "es": "",
+        "file": {
+          "b_30s": 0,
+          "e_30s": 0,
+          "hires_bitdepth": 0,
+          "hires_sample": 0,
+          "media_mid": "003sFXTw2G8xWo",
+          "size_128mp3": 3311328,
+          "size_192aac": 5012054,
+          "size_192ogg": 5396725,
+          "size_24aac": 0,
+          "size_320mp3": 8277786,
+          "size_48aac": 1261567,
+          "size_96aac": 2525145,
+          "size_96ogg": 2594969,
+          "size_ape": 0,
+          "size_dts": 0,
+          "size_flac": 24519292,
+          "size_hires": 0,
+          "size_try": 0,
+          "try_begin": 43602,
+          "try_end": 70744
+        },
+        "fnote": 4009,
+        "genre": 1,
+        "id": 102431885,
+        "index_album": 2,
+        "index_cd": 0,
+        "interval": 206,
+        "isonly": 1,
+        "ksong": {
+          "id": 203743,
+          "mid": "000Gdg2Z1FIbOa"
+        },
+        "label": "4611686018435778576",
+        "language": 5,
+        "mid": "004B0RaB3vJmI6",
+        "mv": {
+          "id": 391108,
+          "vid": "i0016dvfcsh",
+          "vt": 0
+        },
+        "name": "Stitches",
+        "new_icon": 0,
+        "ov": 0,
+        "pay": {
+          "pay_down": 1,
+          "pay_month": 1,
+          "pay_play": 0,
+          "pay_status": 0,
+          "price_album": 0,
+          "price_track": 200,
+          "time_free": 0
+        },
+        "sa": 0,
+        "singer": [
+          {
+            "id": 196676,
+            "mid": "001NODJ71LGPD5",
+            "name": "Shawn Mendes",
+            "title": "Shawn Mendes"
+          }
+        ],
+        "songtype": 3,
+        "status": 0,
+        "subtitle": "",
+        "tf": "",
+        "tid": 0,
+        "time_public": "2015-04-14",
+        "title": "Stitches",
+        "trace": "",
+        "type": 0,
+        "uiAction": 0,
+        "url": "",
+        "version": 0,
+        "volume": {
+          "gain": -9.607999801635742,
+          "lra": 12.279000282287598,
+          "peak": 0.9990000128746033
+        }
+      },
+      {
+        "abt": "",
+        "action": {
+          "alert": 11,
+          "icons": 4680,
+          "msgdown": 0,
+          "msgfav": 0,
+          "msgid": 0,
+          "msgpay": 0,
+          "msgshare": 0,
+          "switch": 603959,
+          "switches": 603959
+        },
+        "album": {
+          "id": 469626,
+          "mid": "001IpMpx26LI4P",
+          "name": "I Knew You Were Trouble (Tribute to Taylor Swift)",
+          "pmid": "001IpMpx26LI4P_1",
+          "title": "I Knew You Were Trouble (Tribute to Taylor Swift)"
+        },
+        "es": "",
+        "file": {
+          "b_30s": 0,
+          "e_30s": 0,
+          "hires_bitdepth": 0,
+          "hires_sample": 0,
+          "media_mid": "000m6T0s2KU8ou",
+          "size_128mp3": 3524999,
+          "size_192aac": 5343562,
+          "size_192ogg": 5765189,
+          "size_24aac": 0,
+          "size_320mp3": 8811974,
+          "size_48aac": 1346703,
+          "size_96aac": 2693543,
+          "size_96ogg": 2744556,
+          "size_ape": 0,
+          "size_dts": 0,
+          "size_flac": 27241268,
+          "size_hires": 0,
+          "size_try": 0,
+          "try_begin": 40319,
+          "try_end": 77423
+        },
+        "fnote": 0,
+        "genre": 1,
+        "id": 5302788,
+        "index_album": 1,
+        "index_cd": 0,
+        "interval": 220,
+        "isonly": 0,
+        "ksong": {
+          "id": 269805,
+          "mid": "0036jqdT2z5mba"
+        },
+        "label": "4611686018431582224",
+        "language": 5,
+        "mid": "0041teYi4CyZ2Q",
+        "mv": {
+          "id": 0,
+          "vid": "",
+          "vt": 0
+        },
+        "name": "I Knew You Were Trouble",
+        "new_icon": 0,
+        "ov": 0,
+        "pay": {
+          "pay_down": 0,
+          "pay_month": 0,
+          "pay_play": 0,
+          "pay_status": 0,
+          "price_album": 0,
+          "price_track": 0,
+          "time_free": 0
+        },
+        "sa": 0,
+        "singer": [
+          {
+            "id": 129162,
+            "mid": "003pe1R33KEMyg",
+            "name": "Party Hit Kings",
+            "title": "Party Hit Kings"
+          }
+        ],
+        "songtype": 3,
+        "status": 31,
+        "subtitle": "",
+        "tf": "",
+        "tid": 0,
+        "time_public": "2012-10-18",
+        "title": "I Knew You Were Trouble",
+        "trace": "",
+        "type": 0,
+        "uiAction": 0,
+        "url": "",
+        "version": 0,
+        "volume": {
+          "gain": -10.062999725341797,
+          "lra": 3.930999994277954,
+          "peak": 0.9879999756813049
+        }
+      },
+      {
+        "abt": "",
+        "action": {
+          "alert": 23,
+          "icons": 8404860,
+          "msgdown": 0,
+          "msgfav": 0,
+          "msgid": 16,
+          "msgpay": 6,
+          "msgshare": 0,
+          "switch": 636675,
+          "switches": 636675
+        },
+        "album": {
+          "id": 661949,
+          "mid": "002a1mWx1HlTaz",
+          "name": "Jealous",
+          "pmid": "002a1mWx1HlTaz_1",
+          "title": "Jealous"
+        },
+        "es": "",
+        "file": {
+          "b_30s": 0,
+          "e_30s": 0,
+          "hires_bitdepth": 0,
+          "hires_sample": 0,
+          "media_mid": "003MCP9R4UCcjz",
+          "size_128mp3": 3557056,
+          "size_192aac": 5383146,
+          "size_192ogg": 5278903,
+          "size_24aac": 0,
+          "size_320mp3": 8892271,
+          "size_48aac": 1355617,
+          "size_96aac": 2711531,
+          "size_96ogg": 2604949,
+          "size_ape": 0,
+          "size_dts": 0,
+          "size_flac": 28739089,
+          "size_hires": 0,
+          "size_try": 0,
+          "try_begin": 45562,
+          "try_end": 72705
+        },
+        "fnote": 4009,
+        "genre": 1,
+        "id": 7254799,
+        "index_album": 1,
+        "index_cd": 0,
+        "interval": 222,
+        "isonly": 1,
+        "ksong": {
+          "id": 114598,
+          "mid": "002feStm0Rpq6P"
+        },
+        "label": "4611686018435780624",
+        "language": 5,
+        "mid": "003bEjmk0wO7ZS",
+        "mv": {
+          "id": 297810,
+          "vid": "g0015th7oyw",
+          "vt": 0
+        },
+        "name": "Jealous",
+        "new_icon": 0,
+        "ov": 0,
+        "pay": {
+          "pay_down": 1,
+          "pay_month": 1,
+          "pay_play": 0,
+          "pay_status": 0,
+          "price_album": 0,
+          "price_track": 200,
+          "time_free": 0
+        },
+        "sa": 0,
+        "singer": [
+          {
+            "id": 40045,
+            "mid": "003DDIZV0n1jPA",
+            "name": "Nick Jonas",
+            "title": "Nick Jonas"
+          }
+        ],
+        "songtype": 3,
+        "status": 0,
+        "subtitle": "2016年维多利亚的秘密泳装秀秀场音乐",
+        "tf": "",
+        "tid": 0,
+        "time_public": "2014-09-09",
+        "title": "Jealous",
+        "trace": "",
+        "type": 0,
+        "uiAction": 0,
+        "url": "",
+        "version": 0,
+        "volume": {
+          "gain": -10.803999900817871,
+          "lra": 5.703999996185303,
+          "peak": 0.9990000128746033
+        }
+      },
+      {
+        "abt": "",
+        "action": {
+          "alert": 23,
+          "icons": 8404860,
+          "msgdown": 0,
+          "msgfav": 0,
+          "msgid": 16,
+          "msgpay": 6,
+          "msgshare": 0,
+          "switch": 636675,
+          "switches": 636675
+        },
+        "album": {
+          "id": 447173,
+          "mid": "003OlNyV0C5FSC",
+          "name": "Happy [From \"Despicable Me 2\"]",
+          "pmid": "003OlNyV0C5FSC_1",
+          "title": "Happy [From \"Despicable Me 2\"]"
+        },
+        "es": "",
+        "file": {
+          "b_30s": 0,
+          "e_30s": 0,
+          "hires_bitdepth": 0,
+          "hires_sample": 0,
+          "media_mid": "000GgoiV2489CV",
+          "size_128mp3": 3734327,
+          "size_192aac": 5633738,
+          "size_192ogg": 5475568,
+          "size_24aac": 0,
+          "size_320mp3": 9334940,
+          "size_48aac": 1418090,
+          "size_96aac": 2847180,
+          "size_96ogg": 2763005,
+          "size_ape": 29378402,
+          "size_dts": 0,
+          "size_flac": 29355641,
+          "size_hires": 0,
+          "size_try": 0,
+          "try_begin": 25870,
+          "try_end": 49060
+        },
+        "fnote": 4009,
+        "genre": 37,
+        "id": 5263940,
+        "index_album": 1,
+        "index_cd": 0,
+        "interval": 233,
+        "isonly": 1,
+        "ksong": {
+          "id": 47918,
+          "mid": "002fBepA0f4Czj"
+        },
+        "label": "4611686018431589392",
+        "language": 5,
+        "mid": "002esgaM4Bi0wp",
+        "mv": {
+          "id": 266885,
+          "vid": "a001543947t",
+          "vt": 0
+        },
+        "name": "Happy",
+        "new_icon": 0,
+        "ov": 0,
+        "pay": {
+          "pay_down": 1,
+          "pay_month": 1,
+          "pay_play": 0,
+          "pay_status": 0,
+          "price_album": 0,
+          "price_track": 200,
+          "time_free": 0
+        },
+        "sa": 0,
+        "singer": [
+          {
+            "id": 8958,
+            "mid": "002hS4v82pFsLP",
+            "name": "Pharrell Williams",
+            "title": "Pharrell Williams"
+          }
+        ],
+        "songtype": 3,
+        "status": 0,
+        "subtitle": "《神偷奶爸2》电影主题曲",
+        "tf": "",
+        "tid": 0,
+        "time_public": "2013-12-16",
+        "title": "Happy",
+        "trace": "",
+        "type": 0,
+        "uiAction": 0,
+        "url": "",
+        "version": 0,
+        "volume": {
+          "gain": -8.53499984741211,
+          "lra": 3.9619998931884766,
+          "peak": 0.9660000205039978
+        }
+      },
+      {
+        "abt": "",
+        "action": {
+          "alert": 23,
+          "icons": 8404860,
+          "msgdown": 0,
+          "msgfav": 0,
+          "msgid": 16,
+          "msgpay": 6,
+          "msgshare": 0,
+          "switch": 636675,
+          "switches": 636675
+        },
+        "album": {
+          "id": 633654,
+          "mid": "002ncLUm01rxX5",
+          "name": "X (Deluxe Edition)",
+          "pmid": "002ncLUm01rxX5_1",
+          "title": "X (Deluxe Edition)"
+        },
+        "es": "",
+        "file": {
+          "b_30s": 0,
+          "e_30s": 0,
+          "hires_bitdepth": 0,
+          "hires_sample": 0,
+          "media_mid": "002NzhMZ1DWWUu",
+          "size_128mp3": 3518622,
+          "size_192aac": 5318335,
+          "size_192ogg": 5144532,
+          "size_24aac": 0,
+          "size_320mp3": 8795580,
+          "size_48aac": 1330595,
+          "size_96aac": 2672987,
+          "size_96ogg": 2537615,
+          "size_ape": 0,
+          "size_dts": 0,
+          "size_flac": 25321761,
+          "size_hires": 0,
+          "size_try": 0,
+          "try_begin": 51228,
+          "try_end": 73267
+        },
+        "fnote": 4009,
+        "genre": 1,
+        "id": 9068434,
+        "index_album": 4,
+        "index_cd": 0,
+        "interval": 219,
+        "isonly": 1,
+        "ksong": {
+          "id": 110368,
+          "mid": "000JGQlc1Pn0Zw"
+        },
+        "label": "4611686018435776848",
+        "language": 5,
+        "mid": "004ROXd12jg14h",
+        "mv": {
+          "id": 294653,
+          "vid": "k0015mxr75h",
+          "vt": 0
+        },
+        "name": "Don't",
+        "new_icon": 0,
+        "ov": 0,
+        "pay": {
+          "pay_down": 1,
+          "pay_month": 1,
+          "pay_play": 0,
+          "pay_status": 0,
+          "price_album": 0,
+          "price_track": 200,
+          "time_free": 0
+        },
+        "sa": 0,
+        "singer": [
+          {
+            "id": 29222,
+            "mid": "0045p4Sz0LIwL5",
+            "name": "Ed Sheeran",
+            "title": "Ed Sheeran"
+          }
+        ],
+        "songtype": 3,
+        "status": 0,
+        "subtitle": "",
+        "tf": "",
+        "tid": 0,
+        "time_public": "2014-06-20",
+        "title": "Don't",
+        "trace": "",
+        "type": 0,
+        "uiAction": 0,
+        "url": "",
+        "version": 0,
+        "volume": {
+          "gain": -8.88599967956543,
+          "lra": 4.4120001792907715,
+          "peak": 0.9789999723434448
+        }
+      },
+      {
+        "abt": "",
+        "action": {
+          "alert": 23,
+          "icons": 8404860,
+          "msgdown": 0,
+          "msgfav": 0,
+          "msgid": 16,
+          "msgpay": 6,
+          "msgshare": 0,
+          "switch": 636675,
+          "switches": 636675
+        },
+        "album": {
+          "id": 448852,
+          "mid": "0046jssR3KLQZv",
+          "name": "Rather Be",
+          "pmid": "0046jssR3KLQZv_1",
+          "title": "Rather Be"
+        },
+        "es": "",
+        "file": {
+          "b_30s": 0,
+          "e_30s": 0,
+          "hires_bitdepth": 0,
+          "hires_sample": 0,
+          "media_mid": "003tLKfv0fmiEo",
+          "size_128mp3": 3857999,
+          "size_192aac": 5845941,
+          "size_192ogg": 4803704,
+          "size_24aac": 0,
+          "size_320mp3": 9644644,
+          "size_48aac": 1470480,
+          "size_96aac": 2943657,
+          "size_96ogg": 2636160,
+          "size_ape": 0,
+          "size_dts": 0,
+          "size_flac": 0,
+          "size_hires": 0,
+          "size_try": 0,
+          "try_begin": 65201,
+          "try_end": 92921
+        },
+        "fnote": 4009,
+        "genre": 20,
+        "id": 5106579,
+        "index_album": 1,
+        "index_cd": 0,
+        "interval": 241,
+        "isonly": 1,
+        "ksong": {
+          "id": 77389,
+          "mid": "002NAAsa1DSSY0"
+        },
+        "label": "4611686018435778576",
+        "language": 5,
+        "mid": "003A30AL4PmrMx",
+        "mv": {
+          "id": 268357,
+          "vid": "c0015da1hgz",
+          "vt": 0
+        },
+        "name": "Rather Be",
+        "new_icon": 0,
+        "ov": 0,
+        "pay": {
+          "pay_down": 1,
+          "pay_month": 1,
+          "pay_play": 0,
+          "pay_status": 0,
+          "price_album": 0,
+          "price_track": 200,
+          "time_free": 0
+        },
+        "sa": 0,
+        "singer": [
+          {
+            "id": 160879,
+            "mid": "002aFRpO1dMtfw",
+            "name": "Clean Bandit",
+            "title": "Clean Bandit/Jess Glynne"
+          },
+          {
+            "id": 174150,
+            "mid": "001eXtLx1MJich",
+            "name": "Jess Glynne",
+            "title": "Jess Glynne"
+          }
+        ],
+        "songtype": 3,
+        "status": 0,
+        "subtitle": "",
+        "tf": "",
+        "tid": 0,
+        "time_public": "2014-01-17",
+        "title": "Rather Be",
+        "trace": "",
+        "type": 0,
+        "uiAction": 0,
+        "url": "",
+        "version": 0,
+        "volume": {
+          "gain": -4.638000011444092,
+          "lra": 10.005000114440918,
+          "peak": 0.781000018119812
+        }
+      },
+      {
+        "abt": "",
+        "action": {
+          "alert": 23,
+          "icons": 8404860,
+          "msgdown": 0,
+          "msgfav": 0,
+          "msgid": 16,
+          "msgpay": 6,
+          "msgshare": 0,
+          "switch": 636675,
+          "switches": 636675
+        },
+        "album": {
+          "id": 778571,
+          "mid": "001OmLQO01QNyH",
+          "name": "Motion",
+          "pmid": "001OmLQO01QNyH_2",
+          "title": "Motion"
+        },
+        "es": "",
+        "file": {
+          "b_30s": 0,
+          "e_30s": 0,
+          "hires_bitdepth": 0,
+          "hires_sample": 0,
+          "media_mid": "002iSWJ83jNeKL",
+          "size_128mp3": 3637726,
+          "size_192aac": 5488753,
+          "size_192ogg": 5440672,
+          "size_24aac": 0,
+          "size_320mp3": 9093975,
+          "size_48aac": 1382828,
+          "size_96aac": 2765480,
+          "size_96ogg": 2638313,
+          "size_ape": 0,
+          "size_dts": 0,
+          "size_flac": 29900084,
+          "size_hires": 0,
+          "size_try": 0,
+          "try_begin": 38836,
+          "try_end": 71725
+        },
+        "fnote": 4009,
+        "genre": 20,
+        "id": 9059604,
+        "index_album": 6,
+        "index_cd": 0,
+        "interval": 227,
+        "isonly": 1,
+        "ksong": {
+          "id": 115001,
+          "mid": "003tNkyt4Fr2n6"
+        },
+        "label": "4611686018435778576",
+        "language": 5,
+        "mid": "0032bsum4BkVom",
+        "mv": {
+          "id": 300850,
+          "vid": "h0015jvowfs",
+          "vt": 0
+        },
+        "name": "Outside",
+        "new_icon": 0,
+        "ov": 0,
+        "pay": {
+          "pay_down": 1,
+          "pay_month": 1,
+          "pay_play": 0,
+          "pay_status": 0,
+          "price_album": 0,
+          "price_track": 200,
+          "time_free": 0
+        },
+        "sa": 0,
+        "singer": [
+          {
+            "id": 10265,
+            "mid": "001YMoro1NL5hU",
+            "name": "Ellie Goulding",
+            "title": "Ellie Goulding/Calvin Harris"
+          },
+          {
+            "id": 13554,
+            "mid": "004RKkVx1tZcSC",
+            "name": "Calvin Harris",
+            "title": "Calvin Harris"
+          }
+        ],
+        "songtype": 3,
+        "status": 0,
+        "subtitle": "",
+        "tf": "",
+        "tid": 0,
+        "time_public": "2014-11-03",
+        "title": "Outside",
+        "trace": "",
+        "type": 0,
+        "uiAction": 0,
+        "url": "",
+        "version": 0,
+        "volume": {
+          "gain": -11.428000450134277,
+          "lra": 8.706000328063965,
+          "peak": 1
+        }
+      },
+      {
+        "abt": "",
+        "action": {
+          "alert": 23,
+          "icons": 8404860,
+          "msgdown": 0,
+          "msgfav": 0,
+          "msgid": 16,
+          "msgpay": 6,
+          "msgshare": 0,
+          "switch": 636675,
+          "switches": 636675
+        },
+        "album": {
+          "id": 1022850,
+          "mid": "001ka28g0iP70E",
+          "name": "Emotion",
+          "pmid": "001ka28g0iP70E_1",
+          "title": "Emotion"
+        },
+        "es": "",
+        "file": {
+          "b_30s": 0,
+          "e_30s": 0,
+          "hires_bitdepth": 0,
+          "hires_sample": 0,
+          "media_mid": "002vq5OE0dDqE4",
+          "size_128mp3": 3147050,
+          "size_192aac": 4762157,
+          "size_192ogg": 4706735,
+          "size_24aac": 0,
+          "size_320mp3": 7867272,
+          "size_48aac": 1198143,
+          "size_96aac": 2395470,
+          "size_96ogg": 2311604,
+          "size_ape": 0,
+          "size_dts": 0,
+          "size_flac": 24442053,
+          "size_hires": 0,
+          "size_try": 0,
+          "try_begin": 34715,
+          "try_end": 68116
+        },
+        "fnote": 4009,
+        "genre": 1,
+        "id": 102696127,
+        "index_album": 1,
+        "index_cd": 0,
+        "interval": 196,
+        "isonly": 1,
+        "ksong": {
+          "id": 2473091,
+          "mid": "001fT4Cs49OhEq"
+        },
+        "label": "4611686018435776528",
+        "language": 5,
+        "mid": "001bEOW20MHWFI",
+        "mv": {
+          "id": 0,
+          "vid": "",
+          "vt": 0
+        },
+        "name": "Emotion",
+        "new_icon": 0,
+        "ov": 0,
+        "pay": {
+          "pay_down": 1,
+          "pay_month": 1,
+          "pay_play": 0,
+          "pay_status": 0,
+          "price_album": 0,
+          "price_track": 200,
+          "time_free": 0
+        },
+        "sa": 0,
+        "singer": [
+          {
+            "id": 34782,
+            "mid": "004cnBXB1OBN7m",
+            "name": "Carly Rae Jepsen",
+            "title": "Carly Rae Jepsen"
+          }
+        ],
+        "songtype": 3,
+        "status": 0,
+        "subtitle": "",
+        "tf": "",
+        "tid": 0,
+        "time_public": "2015-06-23",
+        "title": "Emotion",
+        "trace": "",
+        "type": 0,
+        "uiAction": 0,
+        "url": "",
+        "version": 0,
+        "volume": {
+          "gain": -10.098999977111816,
+          "lra": 7.9770002365112305,
+          "peak": 0.9990000128746033
+        }
+      },
+      {
+        "abt": "",
+        "action": {
+          "alert": 11,
+          "icons": 4680,
+          "msgdown": 0,
+          "msgfav": 0,
+          "msgid": 0,
+          "msgpay": 0,
+          "msgshare": 0,
+          "switch": 79671,
+          "switches": 79671
+        },
+        "album": {
+          "id": 928702,
+          "mid": "000o70B74AkFOC",
+          "name": "Blank Space",
+          "pmid": "000o70B74AkFOC_1",
+          "title": "Blank Space"
+        },
+        "es": "",
+        "file": {
+          "b_30s": 0,
+          "e_30s": 0,
+          "hires_bitdepth": 0,
+          "hires_sample": 0,
+          "media_mid": "003pcnRH3PnfeY",
+          "size_128mp3": 3943692,
+          "size_192aac": 5972754,
+          "size_192ogg": 5757752,
+          "size_24aac": 0,
+          "size_320mp3": 9858860,
+          "size_48aac": 1503240,
+          "size_96aac": 3006924,
+          "size_96ogg": 2858263,
+          "size_ape": 0,
+          "size_dts": 0,
+          "size_flac": 0,
+          "size_hires": 0,
+          "size_try": 0,
+          "try_begin": 47600,
+          "try_end": 92322
+        },
+        "fnote": 8013,
+        "genre": 1,
+        "id": 101791639,
+        "index_album": 1,
+        "index_cd": 0,
+        "interval": 246,
+        "isonly": 0,
+        "ksong": {
+          "id": 172426,
+          "mid": "000uLbWf0aP9m7"
+        },
+        "label": "4611686018435776528",
+        "language": 5,
+        "mid": "0028aIbR2cZP7F",
+        "mv": {
+          "id": 0,
+          "vid": "",
+          "vt": 0
+        },
+        "name": "Blank Space",
+        "new_icon": 0,
+        "ov": 0,
+        "pay": {
+          "pay_down": 0,
+          "pay_month": 0,
+          "pay_play": 0,
+          "pay_status": 0,
+          "price_album": 0,
+          "price_track": 0,
+          "time_free": 0
+        },
+        "sa": 8,
+        "singer": [
+          {
+            "id": 27046,
+            "mid": "0015tIxQ2nuco7",
+            "name": "Tiffany Alvord",
+            "title": "Tiffany Alvord"
+          }
+        ],
+        "songtype": 3,
+        "status": 0,
+        "subtitle": "",
+        "tf": "",
+        "tid": 0,
+        "time_public": "2014-12-16",
+        "title": "Blank Space",
+        "trace": "",
+        "type": 0,
+        "uiAction": 0,
+        "url": "",
+        "version": 0,
+        "volume": {
+          "gain": -5.954999923706055,
+          "lra": 6.875999927520752,
+          "peak": 0.8659999966621399
+        }
+      },
+      {
+        "abt": "",
+        "action": {
+          "alert": 23,
+          "icons": 8404860,
+          "msgdown": 0,
+          "msgfav": 0,
+          "msgid": 16,
+          "msgpay": 6,
+          "msgshare": 0,
+          "switch": 636675,
+          "switches": 636675
+        },
+        "album": {
+          "id": 633654,
+          "mid": "002ncLUm01rxX5",
+          "name": "X (Deluxe Edition)",
+          "pmid": "002ncLUm01rxX5_1",
+          "title": "X (Deluxe Edition)"
+        },
+        "es": "",
+        "file": {
+          "b_30s": 0,
+          "e_30s": 0,
+          "hires_bitdepth": 0,
+          "hires_sample": 0,
+          "media_mid": "000RrkxE1aLc21",
+          "size_128mp3": 4506284,
+          "size_192aac": 6821092,
+          "size_192ogg": 6023509,
+          "size_24aac": 0,
+          "size_320mp3": 11265311,
+          "size_48aac": 1714616,
+          "size_96aac": 3442684,
+          "size_96ogg": 3119258,
+          "size_ape": 0,
+          "size_dts": 0,
+          "size_flac": 29197772,
+          "size_hires": 0,
+          "size_try": 0,
+          "try_begin": 71326,
+          "try_end": 102685
+        },
+        "fnote": 4009,
+        "genre": 1,
+        "id": 9068441,
+        "index_album": 11,
+        "index_cd": 0,
+        "interval": 281,
+        "isonly": 1,
+        "ksong": {
+          "id": 96946,
+          "mid": "004NnkBb4ewIL4"
+        },
+        "label": "4611686018431582544",
+        "language": 5,
+        "mid": "002kPPGI3zDlOt",
+        "mv": {
+          "id": 298934,
+          "vid": "s0015ckkia4",
+          "vt": 0
+        },
+        "name": "Thinking Out Loud",
+        "new_icon": 0,
+        "ov": 0,
+        "pay": {
+          "pay_down": 1,
+          "pay_month": 1,
+          "pay_play": 0,
+          "pay_status": 0,
+          "price_album": 0,
+          "price_track": 200,
+          "time_free": 0
+        },
+        "sa": 0,
+        "singer": [
+          {
+            "id": 29222,
+            "mid": "0045p4Sz0LIwL5",
+            "name": "Ed Sheeran",
+            "title": "Ed Sheeran"
+          }
+        ],
+        "songtype": 3,
+        "status": 0,
+        "subtitle": "2014维多利亚的秘密秀秀场音乐",
+        "tf": "",
+        "tid": 0,
+        "time_public": "2014-06-20",
+        "title": "Thinking Out Loud",
+        "trace": "",
+        "type": 0,
+        "uiAction": 0,
+        "url": "",
+        "version": 0,
+        "volume": {
+          "gain": -8.406000137329102,
+          "lra": 5.47599983215332,
+          "peak": 0.9789999723434448
+        }
+      },
+      {
+        "abt": "",
+        "action": {
+          "alert": 23,
+          "icons": 8404860,
+          "msgdown": 0,
+          "msgfav": 0,
+          "msgid": 16,
+          "msgpay": 6,
+          "msgshare": 0,
+          "switch": 636675,
+          "switches": 636675
+        },
+        "album": {
+          "id": 930913,
+          "mid": "002rLe3A1luVj6",
+          "name": "Heartbeat Song",
+          "pmid": "002rLe3A1luVj6_1",
+          "title": "Heartbeat Song"
+        },
+        "es": "",
+        "file": {
+          "b_30s": 0,
+          "e_30s": 0,
+          "hires_bitdepth": 0,
+          "hires_sample": 0,
+          "media_mid": "000MIFwy26Vsbu",
+          "size_128mp3": 3180511,
+          "size_192aac": 4812752,
+          "size_192ogg": 4819841,
+          "size_24aac": 0,
+          "size_320mp3": 7950463,
+          "size_48aac": 1210315,
+          "size_96aac": 2420934,
+          "size_96ogg": 2351187,
+          "size_ape": 0,
+          "size_dts": 0,
+          "size_flac": 27457044,
+          "size_hires": 0,
+          "size_try": 0,
+          "try_begin": 53349,
+          "try_end": 80444
+        },
+        "fnote": 4009,
+        "genre": 1,
+        "id": 101814926,
+        "index_album": 1,
+        "index_cd": 0,
+        "interval": 198,
+        "isonly": 1,
+        "ksong": {
+          "id": 192384,
+          "mid": "004AdOfc3y2rzd"
+        },
+        "label": "4611686018435776528",
+        "language": 5,
+        "mid": "003DrFPE0HFrHd",
+        "mv": {
+          "id": 307731,
+          "vid": "w0015m2w92x",
+          "vt": 0
+        },
+        "name": "Heartbeat Song",
+        "new_icon": 0,
+        "ov": 0,
+        "pay": {
+          "pay_down": 1,
+          "pay_month": 1,
+          "pay_play": 0,
+          "pay_status": 0,
+          "price_album": 0,
+          "price_track": 200,
+          "time_free": 0
+        },
+        "sa": 0,
+        "singer": [
+          {
+            "id": 4659,
+            "mid": "0034b6ah1V4ZPk",
+            "name": "Kelly Clarkson",
+            "title": "Kelly Clarkson"
+          }
+        ],
+        "songtype": 3,
+        "status": 0,
+        "subtitle": "",
+        "tf": "",
+        "tid": 0,
+        "time_public": "2015-01-12",
+        "title": "Heartbeat Song",
+        "trace": "",
+        "type": 0,
+        "uiAction": 0,
+        "url": "",
+        "version": 0,
+        "volume": {
+          "gain": -12.086000442504883,
+          "lra": 2.4260001182556152,
+          "peak": 0.9990000128746033
+        }
+      },
+      {
+        "abt": "",
+        "action": {
+          "alert": 23,
+          "icons": 8404860,
+          "msgdown": 0,
+          "msgfav": 0,
+          "msgid": 16,
+          "msgpay": 6,
+          "msgshare": 0,
+          "switch": 636675,
+          "switches": 636675
+        },
+        "album": {
+          "id": 962938,
+          "mid": "002nmUta3pB2yR",
+          "name": "I Really Like You",
+          "pmid": "002nmUta3pB2yR_1",
+          "title": "I Really Like You"
+        },
+        "es": "",
+        "file": {
+          "b_30s": 0,
+          "e_30s": 0,
+          "hires_bitdepth": 0,
+          "hires_sample": 0,
+          "media_mid": "000i58Yl0mDPwx",
+          "size_128mp3": 3297968,
+          "size_192aac": 4965504,
+          "size_192ogg": 4852849,
+          "size_24aac": 0,
+          "size_320mp3": 8244515,
+          "size_48aac": 1249109,
+          "size_96aac": 2507291,
+          "size_96ogg": 2402439,
+          "size_ape": 0,
+          "size_dts": 0,
+          "size_flac": 26655935,
+          "size_hires": 0,
+          "size_try": 0,
+          "try_begin": 37952,
+          "try_end": 71218
+        },
+        "fnote": 4009,
+        "genre": 1,
+        "id": 102180318,
+        "index_album": 1,
+        "index_cd": 0,
+        "interval": 206,
+        "isonly": 1,
+        "ksong": {
+          "id": 120096,
+          "mid": "003DA4RM0TIg0v"
+        },
+        "label": "4611686018444165136",
+        "language": 5,
+        "mid": "0037tdR42hYhcm",
+        "mv": {
+          "id": 309068,
+          "vid": "a0016fzfvgx",
+          "vt": 0
+        },
+        "name": "I Really Like You",
+        "new_icon": 0,
+        "ov": 0,
+        "pay": {
+          "pay_down": 1,
+          "pay_month": 1,
+          "pay_play": 0,
+          "pay_status": 0,
+          "price_album": 0,
+          "price_track": 200,
+          "time_free": 0
+        },
+        "sa": 0,
+        "singer": [
+          {
+            "id": 34782,
+            "mid": "004cnBXB1OBN7m",
+            "name": "Carly Rae Jepsen",
+            "title": "Carly Rae Jepsen"
+          }
+        ],
+        "songtype": 3,
+        "status": 0,
+        "subtitle": "",
+        "tf": "",
+        "tid": 0,
+        "time_public": "2015-03-03",
+        "title": "I Really Like You",
+        "trace": "",
+        "type": 0,
+        "uiAction": 0,
+        "url": "",
+        "version": 0,
+        "volume": {
+          "gain": -9.42199993133545,
+          "lra": 8.52400016784668,
+          "peak": 0.9890000224113464
+        }
+      },
+      {
+        "abt": "",
+        "action": {
+          "alert": 23,
+          "icons": 8404860,
+          "msgdown": 0,
+          "msgfav": 0,
+          "msgid": 16,
+          "msgpay": 6,
+          "msgshare": 0,
+          "switch": 636675,
+          "switches": 636675
+        },
+        "album": {
+          "id": 96761,
+          "mid": "0045YohW0S6Mnb",
+          "name": "Curiosity",
+          "pmid": "0045YohW0S6Mnb_1",
+          "title": "Curiosity"
+        },
+        "es": "",
+        "file": {
+          "b_30s": 0,
+          "e_30s": 0,
+          "hires_bitdepth": 0,
+          "hires_sample": 0,
+          "media_mid": "002Qd9yn2R5sbu",
+          "size_128mp3": 3304629,
+          "size_192aac": 5003139,
+          "size_192ogg": 5002540,
+          "size_24aac": 0,
+          "size_320mp3": 8261207,
+          "size_48aac": 1258293,
+          "size_96aac": 2518348,
+          "size_96ogg": 2448521,
+          "size_ape": 0,
+          "size_dts": 0,
+          "size_flac": 25734342,
+          "size_hires": 0,
+          "size_try": 0,
+          "try_begin": 0,
+          "try_end": 0
+        },
+        "fnote": 4009,
+        "genre": 1,
+        "id": 1136481,
+        "index_album": 2,
+        "index_cd": 0,
+        "interval": 206,
+        "isonly": 1,
+        "ksong": {
+          "id": 580195,
+          "mid": "002xTWso3lF6yE"
+        },
+        "label": "4611686018436825104",
+        "language": 5,
+        "mid": "000JOsV11UTA5Y",
+        "mv": {
+          "id": 176504,
+          "vid": "v00167imbu7",
+          "vt": 0
+        },
+        "name": "Curiosity",
+        "new_icon": 0,
+        "ov": 0,
+        "pay": {
+          "pay_down": 1,
+          "pay_month": 1,
+          "pay_play": 0,
+          "pay_status": 0,
+          "price_album": 0,
+          "price_track": 200,
+          "time_free": 0
+        },
+        "sa": 0,
+        "singer": [
+          {
+            "id": 34782,
+            "mid": "004cnBXB1OBN7m",
+            "name": "Carly Rae Jepsen",
+            "title": "Carly Rae Jepsen"
+          }
+        ],
+        "songtype": 3,
+        "status": 0,
+        "subtitle": "",
+        "tf": "",
+        "tid": 0,
+        "time_public": "2012-01-01",
+        "title": "Curiosity",
+        "trace": "",
+        "type": 0,
+        "uiAction": 0,
+        "url": "",
+        "version": 0,
+        "volume": {
+          "gain": -9.954000473022461,
+          "lra": 10.694999694824219,
+          "peak": 0.9990000128746033
+        }
+      },
+      {
+        "abt": "",
+        "action": {
+          "alert": 23,
+          "icons": 8404860,
+          "msgdown": 0,
+          "msgfav": 0,
+          "msgid": 16,
+          "msgpay": 6,
+          "msgshare": 0,
+          "switch": 636675,
+          "switches": 636675
+        },
+        "album": {
+          "id": 652357,
+          "mid": "001UtO2k1aOumr",
+          "name": "Fire",
+          "pmid": "001UtO2k1aOumr_1",
+          "title": "Fire"
+        },
+        "es": "",
+        "file": {
+          "b_30s": 0,
+          "e_30s": 0,
+          "hires_bitdepth": 0,
+          "hires_sample": 0,
+          "media_mid": "003IsHM922gvgy",
+          "size_128mp3": 3657842,
+          "size_192aac": 5511016,
+          "size_192ogg": 5412183,
+          "size_24aac": 0,
+          "size_320mp3": 9144184,
+          "size_48aac": 1388424,
+          "size_96aac": 2782497,
+          "size_96ogg": 2651923,
+          "size_ape": 0,
+          "size_dts": 0,
+          "size_flac": 28176169,
+          "size_hires": 0,
+          "size_try": 0,
+          "try_begin": 51879,
+          "try_end": 73756
+        },
+        "fnote": 4009,
+        "genre": 1,
+        "id": 7155491,
+        "index_album": 1,
+        "index_cd": 0,
+        "interval": 228,
+        "isonly": 1,
+        "ksong": {
+          "id": 192381,
+          "mid": "001XEakX4VfW63"
+        },
+        "label": "5764607523051012112",
+        "language": 5,
+        "mid": "000iDpGB4NlS0D",
+        "mv": {
+          "id": 298950,
+          "vid": "d0015g7b3z7",
+          "vt": 0
+        },
+        "name": "Fire",
+        "new_icon": 0,
+        "ov": 0,
+        "pay": {
+          "pay_down": 1,
+          "pay_month": 1,
+          "pay_play": 0,
+          "pay_status": 0,
+          "price_album": 0,
+          "price_track": 200,
+          "time_free": 0
+        },
+        "sa": 0,
+        "singer": [
+          {
+            "id": 12395,
+            "mid": "000ailiw1xwVAT",
+            "name": "Gavin DeGraw",
+            "title": "Gavin DeGraw"
+          }
+        ],
+        "songtype": 3,
+        "status": 0,
+        "subtitle": "",
+        "tf": "",
+        "tid": 0,
+        "time_public": "2014-08-12",
+        "title": "Fire",
+        "trace": "",
+        "type": 0,
+        "uiAction": 0,
+        "url": "",
+        "version": 0,
+        "volume": {
+          "gain": -8.753999710083008,
+          "lra": 10.484000205993652,
+          "peak": 0.9990000128746033
+        }
+      },
+      {
+        "abt": "",
+        "action": {
+          "alert": 23,
+          "icons": 8404860,
+          "msgdown": 0,
+          "msgfav": 0,
+          "msgid": 16,
+          "msgpay": 6,
+          "msgshare": 0,
+          "switch": 636675,
+          "switches": 636675
+        },
+        "album": {
+          "id": 784089,
+          "mid": "001lER430wIQ9g",
+          "name": "For You",
+          "pmid": "001lER430wIQ9g_1",
+          "title": "For You"
+        },
+        "es": "",
+        "file": {
+          "b_30s": 0,
+          "e_30s": 0,
+          "hires_bitdepth": 0,
+          "hires_sample": 0,
+          "media_mid": "003BoE042rTir2",
+          "size_128mp3": 3038387,
+          "size_192aac": 4583832,
+          "size_192ogg": 4359413,
+          "size_24aac": 0,
+          "size_320mp3": 7595605,
+          "size_48aac": 1154499,
+          "size_96aac": 2315630,
+          "size_96ogg": 2164984,
+          "size_ape": 0,
+          "size_dts": 0,
+          "size_flac": 0,
+          "size_hires": 0,
+          "size_try": 0,
+          "try_begin": 34665,
+          "try_end": 59880
+        },
+        "fnote": 4009,
+        "genre": 1,
+        "id": 100479975,
+        "index_album": 6,
+        "index_cd": 0,
+        "interval": 189,
+        "isonly": 1,
+        "ksong": {
+          "id": 2512638,
+          "mid": "003bEHKf3LWh1V"
+        },
+        "label": "4611686018431582224",
+        "language": 5,
+        "mid": "001D4Wg91jKI1c",
+        "mv": {
+          "id": 0,
+          "vid": "",
+          "vt": 0
+        },
+        "name": "My Dilemma 2.0",
+        "new_icon": 0,
+        "ov": 0,
+        "pay": {
+          "pay_down": 1,
+          "pay_month": 1,
+          "pay_play": 0,
+          "pay_status": 0,
+          "price_album": 0,
+          "price_track": 200,
+          "time_free": 0
+        },
+        "sa": 0,
+        "singer": [
+          {
+            "id": 43197,
+            "mid": "0046fVNz3ruk2r",
+            "name": "Selena Gomez",
+            "title": "Selena Gomez/The Scene"
+          },
+          {
+            "id": 219209,
+            "mid": "003RsCyM1OSiyK",
+            "name": "The Scene",
+            "title": "The Scene"
+          }
+        ],
+        "songtype": 3,
+        "status": 0,
+        "subtitle": "",
+        "tf": "",
+        "tid": 0,
+        "time_public": "2014-11-24",
+        "title": "My Dilemma 2.0",
+        "trace": "",
+        "type": 0,
+        "uiAction": 0,
+        "url": "",
+        "version": 0,
+        "volume": {
+          "gain": -9.23900032043457,
+          "lra": 3.7039999961853027,
+          "peak": 0.7630000114440918
+        }
+      },
+      {
+        "abt": "",
+        "action": {
+          "alert": 23,
+          "icons": 8404860,
+          "msgdown": 0,
+          "msgfav": 0,
+          "msgid": 16,
+          "msgpay": 6,
+          "msgshare": 0,
+          "switch": 636675,
+          "switches": 636675
+        },
+        "album": {
+          "id": 1512647,
+          "mid": "0045xsiJ4JjvTD",
+          "name": "Boom Clap",
+          "pmid": "0045xsiJ4JjvTD_1",
+          "title": "Boom Clap"
+        },
+        "es": "",
+        "file": {
+          "b_30s": 0,
+          "e_30s": 0,
+          "hires_bitdepth": 0,
+          "hires_sample": 0,
+          "media_mid": "0032oyE71qTKyy",
+          "size_128mp3": 2727415,
+          "size_192aac": 4126412,
+          "size_192ogg": 3779219,
+          "size_24aac": 0,
+          "size_320mp3": 6817630,
+          "size_48aac": 1034980,
+          "size_96aac": 2076941,
+          "size_96ogg": 1954791,
+          "size_ape": 0,
+          "size_dts": 0,
+          "size_flac": 20675178,
+          "size_hires": 0,
+          "size_try": 0,
+          "try_begin": 33138,
+          "try_end": 56113
+        },
+        "fnote": 4009,
+        "genre": 1,
+        "id": 107641641,
+        "index_album": 1,
+        "index_cd": 0,
+        "interval": 170,
+        "isonly": 1,
+        "ksong": {
+          "id": 74598,
+          "mid": "003xig9t2w7PSy"
+        },
+        "label": "4611686018435779600",
+        "language": 5,
+        "mid": "004eNpuy2fbaOI",
+        "mv": {
+          "id": 288376,
+          "vid": "g0015s20xo8",
+          "vt": 0
+        },
+        "name": "Boom Clap",
+        "new_icon": 0,
+        "ov": 0,
+        "pay": {
+          "pay_down": 1,
+          "pay_month": 1,
+          "pay_play": 0,
+          "pay_status": 0,
+          "price_album": 0,
+          "price_track": 200,
+          "time_free": 0
+        },
+        "sa": 0,
+        "singer": [
+          {
+            "id": 70651,
+            "mid": "003qGjxe4e4Npn",
+            "name": "Charli XCX",
+            "title": "Charli XCX"
+          }
+        ],
+        "songtype": 3,
+        "status": 0,
+        "subtitle": "",
+        "tf": "",
+        "tid": 0,
+        "time_public": "2014-06-16",
+        "title": "Boom Clap",
+        "trace": "",
+        "type": 0,
+        "uiAction": 0,
+        "url": "",
+        "version": 0,
+        "volume": {
+          "gain": -11.807999610900879,
+          "lra": 6.177000045776367,
+          "peak": 0.9900000095367432
+        }
+      },
+      {
+        "abt": "",
+        "action": {
+          "alert": 23,
+          "icons": 8404860,
+          "msgdown": 0,
+          "msgfav": 0,
+          "msgid": 16,
+          "msgpay": 6,
+          "msgshare": 0,
+          "switch": 636675,
+          "switches": 636675
+        },
+        "album": {
+          "id": 607639,
+          "mid": "003qgLUt07WXVS",
+          "name": "Maps",
+          "pmid": "003qgLUt07WXVS_1",
+          "title": "Maps"
+        },
+        "es": "",
+        "file": {
+          "b_30s": 0,
+          "e_30s": 0,
+          "hires_bitdepth": 0,
+          "hires_sample": 0,
+          "media_mid": "000f9z5s4SNlgy",
+          "size_128mp3": 3042950,
+          "size_192aac": 4600541,
+          "size_192ogg": 4514586,
+          "size_24aac": 0,
+          "size_320mp3": 7607065,
+          "size_48aac": 1157833,
+          "size_96aac": 2316577,
+          "size_96ogg": 2204182,
+          "size_ape": 24368422,
+          "size_dts": 0,
+          "size_flac": 24570938,
+          "size_hires": 0,
+          "size_try": 0,
+          "try_begin": 40330,
+          "try_end": 71267
+        },
+        "fnote": 4009,
+        "genre": 1,
+        "id": 6588458,
+        "index_album": 1,
+        "index_cd": 0,
+        "interval": 190,
+        "isonly": 1,
+        "ksong": {
+          "id": 98718,
+          "mid": "003Eo3LY2Fj1Ke"
+        },
+        "label": "5764607523051012176",
+        "language": 5,
+        "mid": "000BiCA30oX60t",
+        "mv": {
+          "id": 292335,
+          "vid": "k0016yq7zrp",
+          "vt": 0
+        },
+        "name": "Maps",
+        "new_icon": 0,
+        "ov": 0,
+        "pay": {
+          "pay_down": 1,
+          "pay_month": 1,
+          "pay_play": 0,
+          "pay_status": 0,
+          "price_album": 0,
+          "price_track": 200,
+          "time_free": 0
+        },
+        "sa": 0,
+        "singer": [
+          {
+            "id": 4983,
+            "mid": "001JuGrt372YIQ",
+            "name": "Maroon 5",
+            "title": "Maroon 5/Big Sean"
+          },
+          {
+            "id": 26207,
+            "mid": "004A1ODO0GPWyr",
+            "name": "Big Sean",
+            "title": "Big Sean"
+          }
+        ],
+        "songtype": 3,
+        "status": 0,
+        "subtitle": "",
+        "tf": "",
+        "tid": 0,
+        "time_public": "2014-06-16",
+        "title": "Maps",
+        "trace": "",
+        "type": 0,
+        "uiAction": 0,
+        "url": "",
+        "version": 0,
+        "volume": {
+          "gain": -9.737000465393066,
+          "lra": 9.11400032043457,
+          "peak": 0.9990000128746033
+        }
+      },
+      {
+        "abt": "",
+        "action": {
+          "alert": 23,
+          "icons": 8404860,
+          "msgdown": 0,
+          "msgfav": 0,
+          "msgid": 16,
+          "msgpay": 6,
+          "msgshare": 0,
+          "switch": 636675,
+          "switches": 636675
+        },
+        "album": {
+          "id": 640164,
+          "mid": "001DR2r41iNWTa",
+          "name": "Don't Kill the Magic",
+          "pmid": "001DR2r41iNWTa_1",
+          "title": "Don't Kill the Magic"
+        },
+        "es": "",
+        "file": {
+          "b_30s": 0,
+          "e_30s": 0,
+          "hires_bitdepth": 0,
+          "hires_sample": 0,
+          "media_mid": "000xdH6N35Ym63",
+          "size_128mp3": 3598864,
+          "size_192aac": 5445100,
+          "size_192ogg": 5507704,
+          "size_24aac": 0,
+          "size_320mp3": 8996426,
+          "size_48aac": 1369311,
+          "size_96aac": 2735855,
+          "size_96ogg": 2673506,
+          "size_ape": 28417496,
+          "size_dts": 0,
+          "size_flac": 28547956,
+          "size_hires": 0,
+          "size_try": 0,
+          "try_begin": 41360,
+          "try_end": 68174
+        },
+        "fnote": 4009,
+        "genre": 1,
+        "id": 7024107,
+        "index_album": 1,
+        "index_cd": 0,
+        "interval": 224,
+        "isonly": 1,
+        "ksong": {
+          "id": 147029,
+          "mid": "00464Unq0sVF5P"
+        },
+        "label": "4611686018435909648",
+        "language": 5,
+        "mid": "000t8Gij1VgwjM",
+        "mv": {
+          "id": 753911,
+          "vid": "z0020yz1xlm",
+          "vt": 0
+        },
+        "name": "Rude",
+        "new_icon": 0,
+        "ov": 0,
+        "pay": {
+          "pay_down": 1,
+          "pay_month": 1,
+          "pay_play": 0,
+          "pay_status": 0,
+          "price_album": 0,
+          "price_track": 200,
+          "time_free": 0
+        },
+        "sa": 0,
+        "singer": [
+          {
+            "id": 169861,
+            "mid": "002iot2M2P9JE8",
+            "name": "Magic!",
+            "title": "Magic!"
+          }
+        ],
+        "songtype": 3,
+        "status": 0,
+        "subtitle": "",
+        "tf": "",
+        "tid": 0,
+        "time_public": "2014-06-30",
+        "title": "Rude",
+        "trace": "",
+        "type": 0,
+        "uiAction": 0,
+        "url": "",
+        "version": 0,
+        "volume": {
+          "gain": -9.678000450134277,
+          "lra": 5.499000072479248,
+          "peak": 1
+        }
+      },
+      {
+        "abt": "",
+        "action": {
+          "alert": 23,
+          "icons": 8404860,
+          "msgdown": 0,
+          "msgfav": 0,
+          "msgid": 16,
+          "msgpay": 6,
+          "msgshare": 0,
+          "switch": 636675,
+          "switches": 636675
+        },
+        "album": {
+          "id": 648066,
+          "mid": "000xBKWh0qhhPS",
+          "name": "Bang Bang",
+          "pmid": "000xBKWh0qhhPS_1",
+          "title": "Bang Bang"
+        },
+        "es": "",
+        "file": {
+          "b_30s": 0,
+          "e_30s": 0,
+          "hires_bitdepth": 0,
+          "hires_sample": 0,
+          "media_mid": "00403mpK2OhVrj",
+          "size_128mp3": 3190928,
+          "size_192aac": 4816027,
+          "size_192ogg": 5007208,
+          "size_24aac": 0,
+          "size_320mp3": 7976895,
+          "size_48aac": 1210854,
+          "size_96aac": 2425996,
+          "size_96ogg": 2400159,
+          "size_ape": 26069712,
+          "size_dts": 0,
+          "size_flac": 26182979,
+          "size_hires": 0,
+          "size_try": 0,
+          "try_begin": 27433,
+          "try_end": 53185
+        },
+        "fnote": 4009,
+        "genre": 1,
+        "id": 7107218,
+        "index_album": 1,
+        "index_cd": 0,
+        "interval": 199,
+        "isonly": 1,
+        "ksong": {
+          "id": 95541,
+          "mid": "000aEb2j4Ao1R6"
+        },
+        "label": "5764607523038430224",
+        "language": 5,
+        "mid": "002qyr7F1Flgjr",
+        "mv": {
+          "id": 296437,
+          "vid": "f0015vjtkbx",
+          "vt": 0
+        },
+        "name": "Bang Bang",
+        "new_icon": 0,
+        "ov": 0,
+        "pay": {
+          "pay_down": 1,
+          "pay_month": 1,
+          "pay_play": 0,
+          "pay_status": 0,
+          "price_album": 0,
+          "price_track": 200,
+          "time_free": 0
+        },
+        "sa": 0,
+        "singer": [
+          {
+            "id": 24700,
+            "mid": "004Mu8QL4FditN",
+            "name": "Jessie J",
+            "title": "Jessie J/Ariana Grande/Nicki Minaj"
+          },
+          {
+            "id": 38418,
+            "mid": "004eTCF03KvBOE",
+            "name": "Ariana Grande",
+            "title": "Ariana Grande"
+          },
+          {
+            "id": 20710,
+            "mid": "003kJN1r16tgOt",
+            "name": "Nicki Minaj",
+            "title": "Nicki Minaj"
+          }
+        ],
+        "songtype": 3,
+        "status": 0,
+        "subtitle": "《完美音调2》电影插曲|2014年维多利亚的秘密秀秀场音乐",
+        "tf": "",
+        "tid": 0,
+        "time_public": "2014-07-29",
+        "title": "Bang Bang",
+        "trace": "",
+        "type": 0,
+        "uiAction": 0,
+        "url": "",
+        "version": 0,
+        "volume": {
+          "gain": -9.930000305175781,
+          "lra": 5.554999828338623,
+          "peak": 0.9990000128746033
+        }
+      },
+      {
+        "abt": "",
+        "action": {
+          "alert": 23,
+          "icons": 8404860,
+          "msgdown": 0,
+          "msgfav": 0,
+          "msgid": 16,
+          "msgpay": 6,
+          "msgshare": 0,
+          "switch": 636675,
+          "switches": 636675
+        },
+        "album": {
+          "id": 590629,
+          "mid": "001pJZM12HuDid",
+          "name": "Gypsy Heart Side A",
+          "pmid": "001pJZM12HuDid_1",
+          "title": "Gypsy Heart Side A"
+        },
+        "es": "",
+        "file": {
+          "b_30s": 0,
+          "e_30s": 0,
+          "hires_bitdepth": 0,
+          "hires_sample": 0,
+          "media_mid": "003DbV4i39FRUb",
+          "size_128mp3": 3594277,
+          "size_192aac": 5381672,
+          "size_192ogg": 4908300,
+          "size_24aac": 0,
+          "size_320mp3": 8985323,
+          "size_48aac": 1360735,
+          "size_96aac": 2722410,
+          "size_96ogg": 2539412,
+          "size_ape": 24220925,
+          "size_dts": 0,
+          "size_flac": 24255420,
+          "size_hires": 0,
+          "size_try": 0,
+          "try_begin": 40008,
+          "try_end": 71169
+        },
+        "fnote": 4009,
+        "genre": 1,
+        "id": 6379886,
+        "index_album": 4,
+        "index_cd": 0,
+        "interval": 224,
+        "isonly": 1,
+        "ksong": {
+          "id": 74620,
+          "mid": "000KA55u4Wqb4a"
+        },
+        "label": "4611686018435776528",
+        "language": 5,
+        "mid": "000k1XBL418ihA",
+        "mv": {
+          "id": 292611,
+          "vid": "c00158tqibo",
+          "vt": 0
+        },
+        "name": "Try",
+        "new_icon": 0,
+        "ov": 0,
+        "pay": {
+          "pay_down": 1,
+          "pay_month": 1,
+          "pay_play": 0,
+          "pay_status": 0,
+          "price_album": 0,
+          "price_track": 200,
+          "time_free": 0
+        },
+        "sa": 0,
+        "singer": [
+          {
+            "id": 11743,
+            "mid": "001Y2VLp2aswI9",
+            "name": "Colbie Caillat",
+            "title": "Colbie Caillat"
+          }
+        ],
+        "songtype": 3,
+        "status": 0,
+        "subtitle": "",
+        "tf": "",
+        "tid": 0,
+        "time_public": "2014-06-09",
+        "title": "Try",
+        "trace": "",
+        "type": 0,
+        "uiAction": 0,
+        "url": "",
+        "version": 0,
+        "volume": {
+          "gain": -6.38700008392334,
+          "lra": 8.689000129699707,
+          "peak": 0.8199999928474426
+        }
+      },
+      {
+        "abt": "",
+        "action": {
+          "alert": 23,
+          "icons": 8404860,
+          "msgdown": 0,
+          "msgfav": 0,
+          "msgid": 16,
+          "msgpay": 6,
+          "msgshare": 0,
+          "switch": 636675,
+          "switches": 636675
+        },
+        "album": {
+          "id": 1021908,
+          "mid": "004CpScU2yCHtl",
+          "name": "Animals",
+          "pmid": "004CpScU2yCHtl_1",
+          "title": "Animals"
+        },
+        "es": "",
+        "file": {
+          "b_30s": 0,
+          "e_30s": 0,
+          "hires_bitdepth": 0,
+          "hires_sample": 0,
+          "media_mid": "004WXZI23BCLL7",
+          "size_128mp3": 3698762,
+          "size_192aac": 5566828,
+          "size_192ogg": 5418126,
+          "size_24aac": 0,
+          "size_320mp3": 9246544,
+          "size_48aac": 1399565,
+          "size_96aac": 2812665,
+          "size_96ogg": 2667956,
+          "size_ape": 0,
+          "size_dts": 0,
+          "size_flac": 29386439,
+          "size_hires": 0,
+          "size_try": 0,
+          "try_begin": 61579,
+          "try_end": 82503
+        },
+        "fnote": 4009,
+        "genre": 1,
+        "id": 102689038,
+        "index_album": 1,
+        "index_cd": 0,
+        "interval": 231,
+        "isonly": 1,
+        "ksong": {
+          "id": 114142,
+          "mid": "001XPgsm3FCAbM"
+        },
+        "label": "4611686018435776528",
+        "language": 5,
+        "mid": "002KerBw09VHia",
+        "mv": {
+          "id": 298649,
+          "vid": "w0015tuopzi",
+          "vt": 0
+        },
+        "name": "Animals",
+        "new_icon": 0,
+        "ov": 0,
+        "pay": {
+          "pay_down": 1,
+          "pay_month": 1,
+          "pay_play": 0,
+          "pay_status": 0,
+          "price_album": 0,
+          "price_track": 200,
+          "time_free": 0
+        },
+        "sa": 0,
+        "singer": [
+          {
+            "id": 4983,
+            "mid": "001JuGrt372YIQ",
+            "name": "Maroon 5",
+            "title": "Maroon 5"
+          }
+        ],
+        "songtype": 3,
+        "status": 0,
+        "subtitle": "2015年维多利亚的秘密泳装秀秀场音乐",
+        "tf": "",
+        "tid": 0,
+        "time_public": "2014-08-25",
+        "title": "Animals",
+        "trace": "",
+        "type": 0,
+        "uiAction": 0,
+        "url": "",
+        "version": 0,
+        "volume": {
+          "gain": -9.680999755859375,
+          "lra": 6.2170000076293945,
+          "peak": 0.9990000128746033
+        }
+      },
+      {
+        "abt": "",
+        "action": {
+          "alert": 23,
+          "icons": 8404860,
+          "msgdown": 0,
+          "msgfav": 0,
+          "msgid": 16,
+          "msgpay": 6,
+          "msgshare": 0,
+          "switch": 636675,
+          "switches": 636675
+        },
+        "album": {
+          "id": 1243646,
+          "mid": "000LVgmS27amw5",
+          "name": "Reflection (Deluxe)",
+          "pmid": "000LVgmS27amw5_1",
+          "title": "Reflection (Deluxe)"
+        },
+        "es": "",
+        "file": {
+          "b_30s": 0,
+          "e_30s": 0,
+          "hires_bitdepth": 0,
+          "hires_sample": 0,
+          "media_mid": "004eNNaC4QNFbj",
+          "size_128mp3": 3594289,
+          "size_192aac": 5428768,
+          "size_192ogg": 5521655,
+          "size_24aac": 0,
+          "size_320mp3": 8985335,
+          "size_48aac": 1364707,
+          "size_96aac": 2740489,
+          "size_96ogg": 2660830,
+          "size_ape": 0,
+          "size_dts": 0,
+          "size_flac": 28700010,
+          "size_hires": 0,
+          "size_try": 0,
+          "try_begin": 67687,
+          "try_end": 104786
+        },
+        "fnote": 4009,
+        "genre": 1,
+        "id": 105278803,
+        "index_album": 4,
+        "index_cd": 0,
+        "interval": 224,
+        "isonly": 1,
+        "ksong": {
+          "id": 2671229,
+          "mid": "001ASdjg0mK4oK"
+        },
+        "label": "4611686018435776528",
+        "language": 5,
+        "mid": "000grVCn0eHOID",
+        "mv": {
+          "id": 310377,
+          "vid": "l0021dyy8s6",
+          "vt": 0
+        },
+        "name": "Worth It",
+        "new_icon": 0,
+        "ov": 0,
+        "pay": {
+          "pay_down": 1,
+          "pay_month": 1,
+          "pay_play": 0,
+          "pay_status": 0,
+          "price_album": 0,
+          "price_track": 200,
+          "time_free": 0
+        },
+        "sa": 0,
+        "singer": [
+          {
+            "id": 90548,
+            "mid": "003C251T3U9dmh",
+            "name": "Fifth Harmony",
+            "title": "Fifth Harmony/Kid Ink"
+          },
+          {
+            "id": 26665,
+            "mid": "002D71eJ1Yv1lj",
+            "name": "Kid Ink",
+            "title": "Kid Ink"
+          }
+        ],
+        "songtype": 3,
+        "status": 0,
+        "subtitle": "",
+        "tf": "",
+        "tid": 0,
+        "time_public": "2015-01-30",
+        "title": "Worth It",
+        "trace": "",
+        "type": 0,
+        "uiAction": 0,
+        "url": "",
+        "version": 0,
+        "volume": {
+          "gain": -10.725000381469727,
+          "lra": 3.4189999103546143,
+          "peak": 1
+        }
+      },
+      {
+        "abt": "",
+        "action": {
+          "alert": 23,
+          "icons": 8404860,
+          "msgdown": 0,
+          "msgfav": 0,
+          "msgid": 16,
+          "msgpay": 6,
+          "msgshare": 0,
+          "switch": 636675,
+          "switches": 636675
+        },
+        "album": {
+          "id": 515619,
+          "mid": "0003mOg80TXIUI",
+          "name": "Me And My Broken Heart",
+          "pmid": "0003mOg80TXIUI_1",
+          "title": "Me And My Broken Heart"
+        },
+        "es": "",
+        "file": {
+          "b_30s": 0,
+          "e_30s": 0,
+          "hires_bitdepth": 0,
+          "hires_sample": 0,
+          "media_mid": "002tJgii0VKLAN",
+          "size_128mp3": 3065170,
+          "size_192aac": 4639981,
+          "size_192ogg": 4554926,
+          "size_24aac": 0,
+          "size_320mp3": 7662504,
+          "size_48aac": 1167411,
+          "size_96aac": 2329581,
+          "size_96ogg": 2234397,
+          "size_ape": 0,
+          "size_dts": 0,
+          "size_flac": 24939585,
+          "size_hires": 0,
+          "size_try": 0,
+          "try_begin": 57356,
+          "try_end": 80993
+        },
+        "fnote": 4009,
+        "genre": 1,
+        "id": 5520052,
+        "index_album": 3,
+        "index_cd": 0,
+        "interval": 191,
+        "isonly": 1,
+        "ksong": {
+          "id": 113603,
+          "mid": "003bNu613HiXJc"
+        },
+        "label": "5764607523038429200",
+        "language": 5,
+        "mid": "004IOcqU2fFSlY",
+        "mv": {
+          "id": 281527,
+          "vid": "z00159ivnu7",
+          "vt": 0
+        },
+        "name": "Me And My Broken Heart",
+        "new_icon": 0,
+        "ov": 0,
+        "pay": {
+          "pay_down": 1,
+          "pay_month": 1,
+          "pay_play": 0,
+          "pay_status": 0,
+          "price_album": 0,
+          "price_track": 200,
+          "time_free": 0
+        },
+        "sa": 0,
+        "singer": [
+          {
+            "id": 170718,
+            "mid": "003c7xPO25eqRv",
+            "name": "push baby",
+            "title": "push baby"
+          }
+        ],
+        "songtype": 3,
+        "status": 0,
+        "subtitle": "",
+        "tf": "",
+        "tid": 0,
+        "time_public": "2014-01-01",
+        "title": "Me And My Broken Heart",
+        "trace": "",
+        "type": 0,
+        "uiAction": 0,
+        "url": "",
+        "version": 0,
+        "volume": {
+          "gain": -10.267999649047852,
+          "lra": 6.918000221252441,
+          "peak": 0.9929999709129333
+        }
+      }
+    ]
+  },
+  "seoData": {
+    "title": "欧美| 流行节奏控_歌单_QQ音乐_听我想听的歌",
+    "keywords": [
+      "欧美| 流行节奏控",
+      "QQ音乐官方歌单歌单",
+      "流行",
+      "英语",
+      "歌单,推荐歌单,热门歌单,音乐歌单,无损音乐,在线听歌,音乐下载,音乐播放器,QQ音乐"
+    ],
+    "description": "用节奏带动心跳！"
+  },
+  "jsonld": {
+    "@context": "https://ziyuan.baidu.com/contexts/cambrian.jsonld",
+    "@id": "https://i.y.qq.com/n2/m/share/details/taoge.html?ADTAG=newyqq.taoge&id=7256912512",
+    "appid": "1605244540115410",
+    "title": "欧美| 流行节奏控_歌单_QQ音乐_听我想听的歌",
+    "images": [
+      null
+    ],
+    "pubDate": "2019-10-15T16:57:02"
+  }
+}
